@@ -211,3 +211,7 @@ a.social:hover {
   width: 200px;
   height: 200px;
 }
+
+.card .email {
+  color: #006269;
+}
