@@ -204,3 +204,10 @@ a.social:hover {
   }
 
 }
+
+/* Styles for Contact page */
+
+.card .cat-image {
+  width: 200px;
+  height: 200px;
+}
