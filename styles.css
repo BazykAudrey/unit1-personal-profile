@@ -88,7 +88,7 @@ header .profile-image:hover {
   background-color: #002131;
   color: #fff;
 }
-.content-section {
+section {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -98,7 +98,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.content-section:hover {
+section:hover {
   border-color: #07cec6;
 }
 
@@ -207,11 +207,11 @@ a.social:hover {
 
 /* Styles for Contact page */
 
-.content-section .cat-image {
+section .cat-image {
   width: 200px;
   height: 200px;
 }
 
-.content-section .email {
+section .email {
   color: #006269;
 }
